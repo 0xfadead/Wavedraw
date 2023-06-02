@@ -1,4 +1,4 @@
-// (c) Theo Meßner 2023
+// (c) Awildidiot 2023
 
 public class Wavedraw.Window : Gtk.Window {
   private bool cursor_in_surface = false;

@@ -1,0 +1,24 @@
+name: Makefile CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Build and run the project in release mode
+      run: make
+
+    - name: Build and run the project in debug mode
+      run: make debug
+    
+    - name: clean the temporary file
+      run: make clean

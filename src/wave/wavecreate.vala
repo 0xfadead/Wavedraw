@@ -1,4 +1,4 @@
-// (c) 2023 Theo Meßner
+// (c) 2023 Awildidiot
 
 int createwaveheader(Wavedraw.wdata *wdata) {
   wdata.header = Wavedraw.wheader() {

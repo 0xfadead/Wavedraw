@@ -1,4 +1,4 @@
-// (c) 2023 Theo Meßner
+// (c) 2023 Awildidiot
 
 int main(string[] args) {
   if ((args.length == 2) & (args[1] == "help" || args[1] == "-h" || args[1] == "--help")) {

@@ -1,4 +1,4 @@
-// (c) 2023 Theo Meßner
+// (c) 2023 Awildidiot
 
 public struct Wavedraw.wheader {
   public char    RIFF[4];       // RIFF

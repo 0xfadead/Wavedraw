@@ -1,4 +1,4 @@
-// (c) 2023 Theo Meßner
+// (c) 2023 Awildidiot
 
 public class Wavedraw.HeaderBar : Gtk.HeaderBar {
   Wavedraw.Window window;

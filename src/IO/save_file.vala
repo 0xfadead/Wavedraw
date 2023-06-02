@@ -1,4 +1,4 @@
-// (c) Theo Meßner 2023
+// (c) Awildidiot 2023
 
 static inline void flip_y(Wavedraw.wdata wdata) {
   // TODO: find more optimized solution (Fix 2 is actually faster, since it only edits every second value)
