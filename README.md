@@ -18,4 +18,4 @@ A simple xy-oscilloscope drawing application.
 ## Usage
 It's just a normal drawing application, with undo/redo.
 To save use `File -> Save` and choose a location with a suitable name.
-To see the drawing after saving, just use a xy-oscilloscope or xy-oscilloscope emulator (recommendation: `dood.al/oscilloscope`.)
+To see the drawing after saving, just use a xy-oscilloscope or xy-oscilloscope emulator (recommendation: `dood.al/oscilloscope`).
